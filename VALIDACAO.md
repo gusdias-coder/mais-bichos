@@ -10,4 +10,6 @@
 - Contraste das cores principais calculado acima de 4,5:1. Foco visível e regra de movimento reduzido presentes; idioma, alternativas de imagem e semântica conferidos. Não foi realizada auditoria completa com leitor de tela.
 - Sem agenda integrada, dados armazenados ou disponibilidade em tempo real. Horários devem ser confirmados diretamente com a clínica.
 
-Publicação e verificação do endereço público serão registradas após o deploy.
+Publicado e verificado em 08/10/2026: https://gusdias-coder.github.io/mais-bichos/
+
+GitHub Pages main / raiz; execução 37828590865 concluída com sucesso para o commit 12ada2dbc6ba41e0f551d3e7237a4027e7512f7e. No endereço público, estilos e fonte carregados, foto principal confirmada, filtro Bem-estar exibindo Banho e tosa e Pet shop, galeria felina abrindo corretamente e nenhum erro de console observado.
